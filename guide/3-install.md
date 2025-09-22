@@ -5,11 +5,11 @@
 ## Installing Windows
 
 ### Prerequisites
-- [Modified TWRP](https://github.com/n00b69/woa-cepheus/releases/tag/Recovery) (should already be installed)
+- [Modified recovery](https://github.com/n00b69/woa-cepheus/releases/tag/Recovery) (should already be installed)
 
 - [Windows on ARM image](https://arkt-7.github.io/woawin/)
 
-- [Drivers & UEFI](https://github.com/qaz6750/XiaoMi9-Drivers/releases/latest) (make sure you select the noSB UEFI)
+- [Drivers & UEFI](https://github.com/qaz6750/XiaoMi9-Drivers/releases/latest) (make sure you select MuCepheusDisableSecureBoot.img)
 
 ### Boot into TWRP
 > If your recovery has been replaced by the stock recovery, flash it again using
