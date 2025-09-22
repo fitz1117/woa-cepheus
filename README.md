@@ -20,7 +20,7 @@ All the files here have been contributed by other users, here you will find a gu
 
 
 ## Miscellaneous
-- [Dualboot setup](guide/dualboot.md)
+- [Dualboot setup](guide/dualboot-selection2.md)
 
 - [Additional materials](guide/materials.md)
 
