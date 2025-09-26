@@ -14,7 +14,7 @@ All the files here have been contributed by other users, here you will find a gu
 ## Get started
 - [Project status](https://github.com/qaz6750/XiaoMi9-Drivers/blob/main/Status.md)
 
-- [Installation instructions](guide/installation-selection.md)
+- [Installation instructions](guide/1-partition.md)
 
 - [Troubleshooting](guide/troubleshooting.md)
 
